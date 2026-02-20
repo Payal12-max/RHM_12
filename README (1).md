@@ -21,12 +21,12 @@ It streams this data over **UDP sockets** every 5 seconds to support Mixed Reali
 
 ```
 RHM_3.0_UDP/
-├──  camera_acquisition.py
+├── camera_acquisition.py
 |   client_test.py
 |   fatigue_analysis.py
 |   main_controller.py
 |   mini_socket_test.py
-|   README (1).md
+|   README.md
 |   requirements.txt
 |   roi_manager.py
 |   roi_signal_tracker.py
